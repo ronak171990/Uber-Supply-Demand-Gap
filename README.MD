@@ -109,8 +109,6 @@ Queried cleaned dataset using Oracle SQL Developer:
 
 ## 📸 Dashboard Preview
 
-## 📸 Dashboard Preview
-
 ![Dashboard Preview](Screenshot%202025-06-19%20140908.png)
 
 
