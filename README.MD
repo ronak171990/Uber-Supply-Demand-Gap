@@ -109,7 +109,8 @@ Queried cleaned dataset using Oracle SQL Developer:
 
 ## 📸 Dashboard Preview
 
-> _You can add a screenshot here: drag a `.png` or paste image URL_
+> _![Dashboard Preview](Screenshot 2025-06-19 140908.png)
+
 
 ---
 
